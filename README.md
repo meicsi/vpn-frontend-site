@@ -1,2 +1,3 @@
-# vpn-frontend-site
-A frontend site for the vpn host
+# VPN frontend site
+
+A frontend site for the vpn host.
